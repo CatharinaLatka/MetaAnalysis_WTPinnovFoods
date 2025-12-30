@@ -1,0 +1,104 @@
+product_type,product_detail,product
+improved_animal_welfare,beef,animal welfare friendly meat
+improved_animal_welfare,beef,animal welfare-friendly meat
+improved_animal_welfare,chicken,chicken with improved animal welfare
+improved_animal_welfare,egg,in ovo gender determination egg
+improved_animal_welfare,pork,immunocastrated piglet
+improved_animal_welfare,pork,castrated piglet with anesthesia
+improved_animal_welfare,pork,surgically castrated piglet
+improved_animal_welfare,pork,animal welfare-certified pork
+improved_environmental_footprint,beef,beef with required grazing
+improved_environmental_footprint,beef,tinned Chianina beef
+improved_environmental_footprint,beef,Circular beef
+improved_environmental_footprint,butter,butter from cows fed with rapeseed feed and reduced saturated fat
+improved_environmental_footprint,butter,pesticide-free butter
+improved_environmental_footprint,cheese,pesticide-free cheese
+improved_environmental_footprint,fish,enriched fresh fish burger with tomato peel
+improved_environmental_footprint,ham,pollutant abatement technology parma ham
+improved_environmental_footprint,milk,UHT milk green production
+improved_environmental_footprint,milk,climate-neutral milk
+improved_environmental_footprint,milk,milk plus biodiversity conservation
+improved_environmental_footprint,milk,pesticide-free milk
+improved_environmental_footprint,milk,milk plus clean energy
+improved_environmental_footprint,milk,seaweed-fed cow's milk
+improved_environmental_footprint,milk,circular milk
+improved_environmental_footprint,pork,environmentally-certified pork
+improved_environmental_footprint,pork,circular pork
+improved_environmental_footprint,sushi,Sushi based on tuna from full cycle farmed cultivation
+improved_health,burger,patty meat enriched with porcini ITPP1
+improved_health,burger,patty meat enriched with blueberries ITPP2
+improved_health,butter,butter with reduced saturated fat
+improved_health,cheese,functional cream cheese
+improved_health,chicken,chicken fed with spirulina algae
+improved_health,fish,enriched fresh fish burger with lycopene
+improved_health,fish,GM farmed salmon
+improved_health,fish,fish fed with supplements
+improved_health,ham,ham with natural compounds and a reduced level of nitrite
+improved_health,ham,dry-cured ham less salting time
+improved_health,ham,antibiotic-free parma ham
+improved_health,icecream,functional  ice cream
+improved_health,pork,carnosine enhanced pork
+improved_health,pork,pork chop contains high levels of carnosine
+improved_health,pork,pork patty plus dietary fiber
+improved_health,pork,antibiotic-free pork
+improved_health,salami,salami natural conserving
+improved_health,salami,salami without nitrites
+improved_health,sausage,sausages with natural compounds and a reduced level of nitrite
+improved_health,sausage,sausage with pumpkin seed oil
+improved_health,seafood,mussels treated to reduce microplastic to 90%
+improved_health,steak,enhanced omega 3 fatty acids in beef
+improved_health,yoghurt,functional yoghurt
+improved_health,yoghurt,enriched yoghurt
+insects,beef burger,Insect-based patty
+insects,burger,insect meat
+insects,chicken,chicken fed with insects
+insects,chicken,Insect-fed chicken
+insects,duck,duck fed with live insects
+insects,duck,duck fed with insect-meal
+insects,eggs,Insect-fed chickens eggs
+insects,pork,Insect-fed pork
+insects,sushi,insect sushi
+insects,yoghurt,yoghurt enriched with instect protein
+lab_gene_engin,beef,cultured meat
+lab_gene_engin,beef,cultured beef burger
+lab_gene_engin,beef,Cell-cultured hamburger
+lab_gene_engin,beef burger,cultured meat patty
+lab_gene_engin,burger,cultured meat
+lab_gene_engin,burger,lab-grown meat
+lab_gene_engin,chicken,gene-edited chicken breast for lower emissions
+lab_gene_engin,chicken,gene-edited chicken breast for disease resistance
+lab_gene_engin,chicken,gene-edited chicken breast for omega 3
+lab_gene_engin,chicken,cultured chicken
+lab_gene_engin,chicken,Cell-cultured chicken nuggets
+lab_gene_engin,fish,biotechnologically treated fish (triploid)
+lab_gene_engin,meat,cell-based meat
+lab_gene_engin,meat,cultured meat
+lab_gene_engin,milk,gene-edited cattle milk
+lab_gene_engin,milk,Gene-edited cows milk
+lab_gene_engin,milk,animal-free milk based on microorganisms and fermentation
+lab_gene_engin,pork,gene-edited pork
+lab_gene_engin,pork,Cell-cultured pork moon cake
+lab_gene_engin,steak,RNAi technology for beef
+plant_based,beef,plant-based meat
+plant_based,beef,Shiitake jerky
+plant_based,beef,king oyster jerkey
+plant_based,beef,soy jerkey
+plant_based,beef,pea/fava bean jerkey
+plant_based,beef,Plant-based meat ball
+plant_based,beef,plant-based beef
+plant_based,beef,Plant-based burger
+plant_based,beef,Plant-based hamburger
+plant_based,beef burger,Plant-based patty
+plant_based,burger,plant-based meat
+plant_based,burger,pea-protein meat
+plant_based,burger,yeast-protein meat
+plant_based,chicken,Plant-based chicken nuggets
+plant_based,meat,plant-based meat
+plant_based,meat,tofu
+plant_based,milk,oat milk
+plant_based,milk,soy milk
+plant_based,milk,rice milk
+plant_based,pork,Plant-based pork moon cake
+plant_based,sausage,soy
+plant_based,sausage,potato
+plant_based,sausage,pea
